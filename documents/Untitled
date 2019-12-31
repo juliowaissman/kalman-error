@@ -1,0 +1,24 @@
+\documentclass{article}
+
+\usepackage{graphicx}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+
+
+
+\newcommand {\Real}{\mathrm{R}}
+
+
+
+\title{Climate deviation model estimation with Kalman filter}
+
+\author{Julio Waissman Vilanova}\date{}
+
+\begin{document}
+
+\section{The climate deviation model strategy}
+
+Let $P_{ij}(t)$ and $L_{ij}(t) the observed precipitation and lighting gaussian counts in grid $i,j$ at time $t$ respectively. The aim of the model is to estimate the precipitation $\hat{P}_ij(t) using the lightning data of the grid and the grids in a neighborhood in space and time. The $\hat{P}_ij(t)$ is estimated in two stage: a frist stage using a linear invariant seasonal model adjusted by a least square methodology and a climate deviation model adjusted in dynamical way by means of a Kalman filter. The  
+
+\end{document}
+

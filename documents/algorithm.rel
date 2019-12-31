@@ -1,0 +1,26 @@
+;; RefTeX parse info file
+;; File: /Users/juliowaissman/Documents/06 Proyectos/2010 proyecto lluvia convectiva/ClimateDeviationModel/documents/algorithm.tex
+;; User: juliowaissman (Julio Waissman)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/juliowaissman/Documents/06 Proyectos/2010 proyecto lluvia convectiva/ClimateDeviationModel/documents/")
+
+(label-numbers)
+
+(bof "/Users/juliowaissman/Documents/06 Proyectos/2010 proyecto lluvia convectiva/ClimateDeviationModel/documents/algorithm.tex")
+
+(toc "toc" "    1 The climate deviation model strategy" "/Users/juliowaissman/Documents/06 Proyectos/2010 proyecto lluvia convectiva/ClimateDeviationModel/documents/algorithm.tex" nil 2 "1" "\\section{The climate deviation model strategy}" 274)
+
+(eof "/Users/juliowaissman/Documents/06 Proyectos/2010 proyecto lluvia convectiva/ClimateDeviationModel/documents/algorithm.tex")
+))
+
